@@ -30,3 +30,5 @@
 * templating.js   ---模板文件编译
 * rest.js 		  ---restAPI配置
 * static-file.js  ---静态文件加载
+
+blog address:http://www.cnblogs.com/pangys/p/7280793.html
